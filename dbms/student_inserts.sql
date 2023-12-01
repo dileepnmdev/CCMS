@@ -1,0 +1,21 @@
+INSERT INTO public.student (first_name,last_name,license_no,dob, parent_id, classtype, weekenrolled, consent_form) VALUES
+('Kathryn','Reed','2019-10-04','lc1', 10, 'Infant', 2, 1),
+('Shane','Snow','2023-07-13','lc1', 5, '4 Years Old', 5, 1),
+('Anthony','Lee','2018-06-16','lc1', 9, '3 Years Old', 5, 1),
+('Kathryn','Payne','2020-10-01', 'lc1',8, 'Toddler', 3, 1),
+('Gabriel','Dominguez','2019-09-06','lc1', 6, 'Infant', 5, 1),
+('Gary','Benton','2020-12-16','lc1', 1,'Twaddler', 4, 1),
+('Darrell','Clark','2021-01-01', 'lc1',6, 'Infant', 4, 1),
+('Kurt','Dodson','2023-12-09', 'lc1',2, 'Twaddler', 4, 1),
+('Jessica','Jones','2023-02-04','lc1', 3, '3 Years Old', 4, 1),
+('Laura','Oliver','2023-10-11', 'lc1',4,'3 Years Old', 3, 1),
+('Jamie','Collins','2021-04-07', 'lc1',5,'3 Years Old', 2, 1),
+('Austin','Green','2021-01-31', 'lc1',8,'Toddler', 1, 1),
+('Joe','Moreno','2020-02-11', 'lc1',9,'Toddler', 2, 1),
+('Jennifer','Mckinney','2018-07-03','lc1', 1, '4 Years Old', 3, 1),
+('Wyatt','Frazier','2022-04-25', 'lc1',2, 'Infant', 5, 1),
+('Yesenia','Hall','2020-07-11', 'lc1',2,'4 Years Old', 5, 1),
+('Mark','Hernandez','2022-08-05','lc1', 6, 'Toddler', 4, 1),
+('William','Clarke','2022-10-07', 'lc1',1, '4 Years Old', 1, 1),
+('William','Jordan','2022-08-13', 'lc1',1,'Twaddler', 5, 1);
+
